@@ -1,0 +1,7 @@
+{
+    "home": {
+        "import": "from libs.uix.baseclass.screens.home_screen import HomeScreen",
+        "kv": "libs/uix/kv/screens/home_screen.kv",
+        "object": "HomeScreen()"
+    }
+}
